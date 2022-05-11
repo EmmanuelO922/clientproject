@@ -1,3 +1,11 @@
-h1 {
-  color: fuchsia;
+html {
+  background-image: linear-gradient(#b83c33, #2f0808);
 }
+.navbar {
+  display: flex;
+  justify-content: flex start;
+  color: White;
+  background-color: #b83c33;
+  font-size: 30px;
+}
+
